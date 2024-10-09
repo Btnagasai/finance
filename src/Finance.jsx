@@ -2,7 +2,7 @@
 const Finance = () =>{
 return(
     <div>
-        <div className="grid  justify-center items-center h-screen max-w-full m-auto  bg-[#f8f5f0]">
+        <div className="grid  justify-center items-center h-screen max-w-full  bg-[#f8f5f0]">
             
             <div className="grid grid-cols-8  grid-rows-4 gap-6 shadow-2xl shadow-black p-5">
                 <div className="row-span-10 rounded-e-3xl bg-black shadow-2xl shadow-black  text-white text-[30px] pl-5 pt-5 font-bold font-public-sans  "> finance</div>
