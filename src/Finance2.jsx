@@ -1,7 +1,7 @@
 function Finance2(){
     return(
-        <div className="grid   gap-4 bg-[#f8f5f0] items-center m-auto h-screen justify-center ">
-            <div className="grid grid-cols-4 grid-rows-6 shadow-2xl shadow-black  gap-4 p-5 m-auto">
+        <div className="grid   gap-4 bg-[#f8f5f0] items-center  min-h-screen max-w-screen justify-center  m-auto ">
+            <div className="grid grid-cols-4 grid-rows-6   gap-4 p-5 ">
             <div className="row-span-8 hidden md:block bg-black  shadow-2xl rounded-e-3xl shadow-black text-white  text-left pt-14 pl-10 font-public-sans text-[30px] font-bold">finance
                 
             </div>
